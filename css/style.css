@@ -1,0 +1,28 @@
+.input:focus{
+
+    box-shadow: none !important;
+}
+
+.container{
+    padding-inline: 0px !important;
+}
+.nav-link-first {
+    padding-left: 0px !important;
+}
+.nav-link-end{
+    padding-right: 0px !important;
+}
+.input-group{
+    max-width: 400px !important;
+}
+.li-span{
+    display: block;
+    width: 1px;
+    height: 16px;
+    background-color: black;
+    opacity: 0.5;
+}
+
+.active{
+    color: rgba(237, 85, 59, 1);
+}
