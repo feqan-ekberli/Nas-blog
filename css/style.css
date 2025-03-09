@@ -26,3 +26,11 @@
 .active{
     color: rgba(237, 85, 59, 1);
 }
+.text-orange{
+    color: #ED553B;
+
+}
+.hero-section{
+    background-color:#faf9f7 ;
+    margin-top: 70px;
+}
